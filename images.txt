@@ -1,2 +1,1 @@
-themoviedb
-vnstat
+vnStat 2.12
