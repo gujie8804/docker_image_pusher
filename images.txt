@@ -1,2 +1,1 @@
-vergoh/vnstat:2.12
 jxxghp/moviepilot:latest
