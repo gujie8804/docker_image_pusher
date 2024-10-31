@@ -1,2 +1,2 @@
 jxxghp/moviepilot:latest
-stefiix92/themoviedb:v1.0.0-10-g838d0ca-dirty
+stefiix92/themoviedb:v1.0.1
