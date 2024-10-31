@@ -1,1 +1,1 @@
-themoviedb:v1.0.0
+themoviedb:v1.0.1
