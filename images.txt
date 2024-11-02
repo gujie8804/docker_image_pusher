@@ -1,4 +1,2 @@
 jxxghp/moviepilot:latest
-stefiix92/themoviedb:v1.0.1
-zeronews/zeronews:test
-probezy/cpolar:latest
+dreamacro/clash:v1.18.0
