@@ -1,2 +1,2 @@
-jxxghp/moviepilot:latest
+adguard/adguardhome:v0.107.36
 dreamacro/clash:v1.18.0
