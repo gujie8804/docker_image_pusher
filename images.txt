@@ -2,3 +2,4 @@ emby/embyserver:4.9.0.33
 adguard/adguardhome:v0.107.36
 dreamacro/clash:v1.18.0
 linuxserver/qbittorrent:4.6.5
+wyvern/vpn:latest
