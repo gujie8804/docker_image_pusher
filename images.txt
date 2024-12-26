@@ -3,3 +3,4 @@ adguard/adguardhome:v0.107.36
 dreamacro/clash:v1.18.0
 linuxserver/qbittorrent:4.6.5
 wyvern/vpn:latest
+hwdsl2/ipsec-vpn-server:latest
