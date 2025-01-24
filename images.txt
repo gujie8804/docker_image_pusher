@@ -5,3 +5,4 @@ linuxserver/qbittorrent:4.6.5
 wyvern/vpn:latest
 hwdsl2/ipsec-vpn-server:latest
 iyuucn/iyuuplus-dev:latest
+linuxserver/transmission:4.0.5
