@@ -1,10 +1,2 @@
 emby/embyserver:4.9.0.33
-adguard/adguardhome:v0.107.36
-dreamacro/clash:v1.18.0
-linuxserver/qbittorrent:4.6.5
-wyvern/vpn:latest
-hwdsl2/ipsec-vpn-server:latest
-iyuucn/iyuuplus-dev:latest
-linuxserver/transmission:4.0.5
-doube-itv:latest
-0-8-4/miui-auto-tasks
+o1si/miui-auto-tasks:latest
