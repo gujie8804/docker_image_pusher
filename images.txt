@@ -7,3 +7,4 @@ hwdsl2/ipsec-vpn-server:latest
 iyuucn/iyuuplus-dev:latest
 linuxserver/transmission:4.0.5
 doube-itv:latest
+0-8-4/miui-auto-tasks
