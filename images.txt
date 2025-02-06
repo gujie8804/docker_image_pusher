@@ -1,3 +1,2 @@
 emby/embyserver:4.9.0.33
-linuxserver/qbittorrent:4.6.7
-linuxserver/qbittorrent:4.6.5
+linuxserver/qbittorrent:5.0.3
