@@ -1,2 +1,2 @@
 emby/embyserver:4.9.0.33
-haishanh/yacd:master
+linuxserver/qbittorrent:4.6.7
